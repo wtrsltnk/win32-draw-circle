@@ -1,3 +1,5 @@
+//  From https://github.com/MicrosoftDocs/win32/blob/2a616e524b3e6917ec2e6ff0ec930df8dc675392/desktop-src/LearnWin32/your-first-direct2d-program.mds
+
 #include <windows.h>
 #include <windowsx.h>
 #include <d2d1.h>
